@@ -122,6 +122,21 @@ col-6{
     padding: 20px 0px 0px;
 }
 
+.f-name{
+    font-family: Raleway;
+    text-align: center;
+    padding: 20px 0px 0px;
+}
+.f-type{
+    font-family: Raleway;
+    text-align: center;
+    padding: 0px;
+}
+.conn-button{
+    margin-top: 5px;
+    margin-left: 43px;
+    margin-bottom: 40px;
+}
 .farm-name{
     font-family: Raleway;
     text-align: center;
@@ -182,6 +197,12 @@ col-6{
     margin-top: 25px;
     color: #35adc6;
     font-size: 44px;
+}
+
+.btn-market{
+    width: 100%;
+    font-size:20px;
+    margin-bottom: 20px;
 }
 @media only screen and (min-width:600px){
     .center-bg{
